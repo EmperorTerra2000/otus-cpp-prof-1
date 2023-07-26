@@ -1,9 +1,0 @@
-C:/Users/Emperor/dev/otus-prof/hw/1/build/CMakeFiles/helloworld_cli.dir
-C:/Users/Emperor/dev/otus-prof/hw/1/build/CMakeFiles/package_source.dir
-C:/Users/Emperor/dev/otus-prof/hw/1/build/CMakeFiles/helloworld.dir
-C:/Users/Emperor/dev/otus-prof/hw/1/build/CMakeFiles/package.dir
-C:/Users/Emperor/dev/otus-prof/hw/1/build/CMakeFiles/install.dir
-C:/Users/Emperor/dev/otus-prof/hw/1/build/CMakeFiles/edit_cache.dir
-C:/Users/Emperor/dev/otus-prof/hw/1/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Emperor/dev/otus-prof/hw/1/build/CMakeFiles/list_install_components.dir
-C:/Users/Emperor/dev/otus-prof/hw/1/build/CMakeFiles/install/local.dir
