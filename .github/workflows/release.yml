@@ -10,5 +10,5 @@ jobs:
         with:
           submodules: true
       - run: sudo apt-get update
-      - run: cmake build -DPATCH_VERSION=${{ github.run_number }}
+      - run: cmake -B build -DPATCH_VERSION=${{ github.run_number }}
       - run: cmake --build build
