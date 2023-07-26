@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Emperor/dev/otus-prof/hw/1/build/CMakeFiles/helloworld_cli.dir/embed.manifest"
