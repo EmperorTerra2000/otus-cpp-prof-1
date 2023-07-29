@@ -1,4 +1,4 @@
-name: 'C++ CI'
+name: 'otus: C++ CI'
 
 on:
   push:
