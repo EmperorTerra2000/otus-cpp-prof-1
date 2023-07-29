@@ -43,13 +43,15 @@
 2. Запустить ubuntu-20.04 в виртуальной машине, если вы работаете не на линуксе
 3. Переместиться в папку где лежит скачанный проект
 4. Выполнить следующую команду
-   sudo apt update && sudo apt install ./helloworld-0.0.{Номер билда}-Linux.deb
+
+   `sudo apt update && sudo apt install ./helloworld-0.0.{Номер билда}-Linux.deb`
+
 5. После установки путь к установленному проекту будет добавлен PATH, поэтому остается ввести в консоле имя проекта:
 
-`yourname@yourname-VirtualBox:~$ helloworld_cli`
+   `yourname@yourname-VirtualBox:~$ helloworld_cli`
 
 Программа выводит в консоль следующее:
 
-`Build: X`
+    `Build: X`
 
-`Hello, World !`
+    `Hello, World!`
